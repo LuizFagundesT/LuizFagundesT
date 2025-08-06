@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Sou+Luiz.;Desenvolvedor+apaixonado+por+tecnologia!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=Ol%C3%A1!+Sou+Luiz.;Desenvolvedor+apaixonado+por+tecnologia!)](https://git.io/typing-svg)
 
 
 - 🧑‍💻 Em transição para a área de tecnologia.  
