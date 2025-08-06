@@ -23,6 +23,9 @@
 </div>
 
 ---
+<img alt="github-snake" src="https://raw.githubusercontent.com/gnvr29/gnvr29/output/github-snake.svg" />
+---
+
 ## 🔎Entre em contato comigo
 <div>
   <a href = "mailto:luizagustinho032@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
