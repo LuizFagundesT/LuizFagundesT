@@ -23,7 +23,7 @@
 </div>
 
 ---
-<img alt="github-snake" src="https://raw.githubusercontent.com/gnvr29/gnvr29/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/LuizFagundesT/LuizFagundesT/output/github-snake.svg" />
 ---
 
 ## 🔎Entre em contato comigo
