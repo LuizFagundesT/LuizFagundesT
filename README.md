@@ -1,4 +1,5 @@
-## 🚀 Olá! Eu sou Luiz Gustavo, desenvolvedor e apaixonado por tecnologia!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Sou+Luiz.;Desenvolvedor+apaixonado+por+tecnologia!)](https://git.io/typing-svg)
+
 
 - 🧑‍💻 Em transição para a área de tecnologia.  
 - 📚 Estudando atualmente **React**, **JavaScript** e **TypeScript**.  
@@ -23,8 +24,8 @@
 </div>
 
 ---
-<img alt="github-snake" src="https://raw.githubusercontent.com/LuizFagundesT/LuizFagundesT/output/github-snake.svg" />
----
+
+
 
 ## 🔎Entre em contato comigo
 <div>
