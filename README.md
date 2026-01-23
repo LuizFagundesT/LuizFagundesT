@@ -2,7 +2,7 @@
 
 
 - 🧑‍💻 Em transição para a área de tecnologia.  
-- 📚 Estudando atualmente **React**, **JavaScript** e **TypeScript**.  
+- 📚 Estudando atualmente **python**.  
 - 🎓 Graduando em **Engenharia de Software** pela PUC-Minas.  
 - 📩 Contato: **luizagustinho032@gmail.com**  
 
