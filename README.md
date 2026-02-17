@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a6436f8-586b-47b7-8c82-d99c484c8dab" alt="Hello World Banner" width="100%"/>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=Ol%C3%A1!+Sou+Luiz.;Desenvolvedor+apaixonado+por+tecnologia!)](https://git.io/typing-svg)
 
 
@@ -27,7 +31,7 @@
 
 
 
-## 🔎Entre em contato comigo
+## 🔎Conect-se
 <div>
   <a href = "mailto:luizagustinho032@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/luiz-gustavo-fagundes-teixeira-545225287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
