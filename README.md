@@ -12,11 +12,6 @@
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFagundesT&show_icons=true&theme=highcontrast&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFagundesT&layout=compact&theme=highcontrast" alt="Linguagens mais usadas"/>
-</div>
-
 
 <div align="center">
    <img align="center" alt="Luiz-Js" height="40" width="50" src="https://www.svgrepo.com/show/452091/python.svg">
