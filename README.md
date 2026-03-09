@@ -1,71 +1,176 @@
-
 <div align="center">
-   <img align="center" alt="oficinas" src="https://luizfagundest.github.io/githubReadme.github.io/img-header.png"/>
+   <img align="center" alt="header" src="https://luizfagundest.github.io/githubReadme.github.io/img-header.png"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1+,+sou+Luiz!.;Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C853&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hi%2C+my+name+is+Luiz+Fagundes!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 <div align="center">
+
 <table>
 <tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
-<td><a href=""><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://github.com/LuizFagudesT" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="mailto:luizagustinho032@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5531984619823" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/luizgustft/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/luiz-gustavo-fagundes-teixeira-545225287/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>-->
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
-
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://joaopauloaramuni.github.io/image/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
+<td>
+<a href="">
+<img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50"/>
 </a>
 </td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
-</div>
 
-<div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Luiz</code>, tenho 23 anos, moro em BH e sou programador desde os 20 anos de idade. Atualmente sou <code>estudante</code> no cursos de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href=""></a>
+<td>
+<a href="https://github.com/LuizFagundesT" target="_blank">
+<img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50"/>
+</a>
+</td>
+
+<td>
+<a href="mailto:luizagustinho032@gmail.com">
+<img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50"/>
+</a>
+</td>
+
+<td>
+<a href="https://wa.me/5531984619823">
+<img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50"/>
+</a>
+</td>
+
+<td>
+<a href="https://www.instagram.com/luizgustft/">
+<img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50"/>
+</a>
+</td>
+
+<td>
+<a href="https://www.linkedin.com/in/luiz-gustavo-fagundes-teixeira-545225287/">
+<img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50"/>
+</a>
+</td>
+
+<td>
+<a href="https://discordapp.com/users/959151773728251914">
+<img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50"/>
+</a>
+</td>
+
+<td>
+<a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR">
+<img src="https://joaopauloaramuni.github.io/image/scholar2.png?raw=true" width="50"/>
+</a>
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
+
+<div align="justify">
+
+<b>Olá</b> 👋, sou o <code>Luiz</code>, tenho 23 anos e moro em Belo Horizonte.  
+Sou programador desde os 20 anos e atualmente sou <code>estudante</code> de Engenharia de Software na <a href="https://www.pucminas.br/">PUC Minas</a>.
+
+</div>
+
+---
+
+## About me
+
+Software Engineering student passionate about automation and process analysis. I discovered programming when studying Algorithms and Data Structures during my Mechanical Engineering course, which led me to transition into the tech field.
+
+Today, I focus on building web and mobile tools to automate and improve processes through **vibe coding** and continuous refactoring.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizFagundesT&theme=chartreuse_dark)
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### Development
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=html"/></td>
+<td><img src="https://skillicons.dev/icons?i=css"/></td>
+<td><img src="https://skillicons.dev/icons?i=javascript"/></td>
+<td><img src="https://skillicons.dev/icons?i=java"/></td>
+<td><img src="https://skillicons.dev/icons?i=python"/></td>
+<td><img src="https://skillicons.dev/icons?i=spring"/></td>
+<td><img src="https://skillicons.dev/icons?i=mysql"/></td>
+</tr>
+</table>
+
+### Cloud / DevOps
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=git"/></td>
+<td><img src="https://skillicons.dev/icons?i=github"/></td>
+<td><img src="https://skillicons.dev/icons?i=docker"/></td>
+<td><img src="https://skillicons.dev/icons?i=linux"/></td>
+<td><img src="https://skillicons.dev/icons?i=vscode"/></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📜 Certificates
+
+<details>
+<summary><b>Click to view my certifications</b></summary>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://dlp.hashtagtreinamentos.com/certificado/download">
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/7310cef4-dde6-4aca-86c0-39972cfb208f" />
+<br>
+<b>Jornada Python</b>
+</a>
+</td>
+
+
+
+</tr>
+</table>
+
+</div>
+
+</details>
 
 
 <div align="center">
-   <img align="center" alt="Luiz-Js" height="40" width="50" src="https://www.svgrepo.com/show/452091/python.svg">
-  <img align="center" alt="Luiz-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luiz-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luiz-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luiz-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luiz-Cpp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+
+```text
+███████╗ █████╗  ██████╗ ██╗   ██╗███╗   ██╗██████╗ ███████╗███████╗
+██╔════╝██╔══██╗██╔════╝ ██║   ██║████╗  ██║██╔══██╗██╔════╝██╔════╝
+█████╗  ███████║██║  ███╗██║   ██║██╔██╗ ██║██║  ██║█████╗  ███████╗
+██╔══╝  ██╔══██║██║   ██║██║   ██║██║╚██╗██║██║  ██║██╔══╝  ╚════██║
+██║     ██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║██████╔╝███████╗███████║
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝╚══════╝
+```
 </div>
 
----
-
-
-
-## 🔎Conect-se
-<div>
-  <a href = "mailto:luizagustinho032@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/luiz-gustavo-fagundes-teixeira-545225287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
