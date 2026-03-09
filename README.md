@@ -93,6 +93,8 @@ Today, I focus on building web and mobile tools to automate and improve processe
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizFagundesT&theme=chartreuse_dark)
 
+<img src="https://raw.githubusercontent.com/LuizFagundesT/LuizFagundesT/output/pacman.svg"/>
+
 </div>
 
 ---
