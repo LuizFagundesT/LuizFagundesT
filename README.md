@@ -93,8 +93,12 @@ Today, I focus on building web and mobile tools to automate and improve processe
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizFagundesT&theme=chartreuse_dark)
 
-<img src="https://raw.githubusercontent.com/LuizFagundesT/LuizFagundesT/output/pacman.svg"/>
+<img src="https://github-streak-stats-ruby.vercel.app/?user=LuizFagundesT&theme=chartreuse-dark&hide_border=true&locale=pt_BR" />
 
+
+<a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank">
+<img align="center" alt="github-user-contribution" src="https://raw.githubusercontent.com/LuizFagundesT/LuizFagundesT/output/github-contribution-grid-snake.svg"/>
+   
 </div>
 
 ---
@@ -162,7 +166,7 @@ Today, I focus on building web and mobile tools to automate and improve processe
 
 </details>
 
-
+---
 <div align="center">
 
 ```text
