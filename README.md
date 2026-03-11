@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
    <img align="center" alt="header" src="https://luizfagundest.github.io/githubReadme.github.io/img-header.png"/>
-</div>
+</div> -->
 
 <div align="center">
 
