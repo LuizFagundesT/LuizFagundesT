@@ -1,11 +1,8 @@
-<!-- <div align="center">
-   <img align="center" alt="header" src="https://luizfagundest.github.io/githubReadme.github.io/img-header.png"/>
-</div> -->
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C853&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hi%2C+my+name+is+Luiz+Fagundes!;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
+<img src="https://media.tenor.com/HspKFmfo6UYAAAAM/more-of-my-hacking.gif" width="100%" height="200px" style="object-fit:cover;" alt="matrix banner"/>
+   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C853&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Oi%2C+meu+nome+%C3%A9+Luiz+Fagundes!;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+ 
 </div>
 
 ---
@@ -70,34 +67,65 @@
 
 ---
 
+## 👤 Sobre mim
+
+<table>
+<tr>
+<td width="600px">
 <div align="justify">
 
-<b>Olá</b> 👋, sou o <code>Luiz</code>, tenho 23 anos e moro em Belo Horizonte.  
-Sou programador desde os 20 anos e atualmente sou <code>estudante</code> de Engenharia de Software na <a href="https://www.pucminas.br/">PUC Minas</a>.
+**Olá** 👋, sou o `Luiz`, tenho 23 anos e moro em Belo Horizonte.
+Sou programador desde os 20 anos e atualmente sou `estudante` de Engenharia de Software na [PUC Minas](https://www.pucminas.br/).
+
+Apaixonado por automação e análise de processos. Descobri a programação ao estudar Algoritmos e Estruturas de Dados durante o curso de Engenharia Mecânica, o que me levou a migrar para a área de tecnologia.
+
+Hoje foco em construir ferramentas web e mobile para automatizar e melhorar processos através de **vibe coding** e refatoração contínua.
 
 </div>
+</td>
+<td align="center">
+
+<img src="https://media1.tenor.com/m/vtrHcBY3uBMAAAAC/dork-dorkcoin.gif" width="280px" alt="gif de apresentação"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## About me
-
-Software Engineering student passionate about automation and process analysis. I discovered programming when studying Algorithms and Data Structures during my Mechanical Engineering course, which led me to transition into the tech field.
-
-Today, I focus on building web and mobile tools to automate and improve processes through **vibe coding** and continuous refactoring.
-
----
-
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizFagundesT&theme=chartreuse_dark)
+<table>
+<tr>
+<td>
 
-<img src="https://github-streak-stats-ruby.vercel.app/?user=LuizFagundesT&theme=chartreuse-dark&hide_border=true&locale=pt_BR" />
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=LuizFagundesT&custom_title=GitHub+Stats&theme=chartreuse-dark&title_color=00C853&text_color=39d353&icon_color=00C853&ring_color=00C853&border_color=00C853&hide_border=true&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 
+</td>
+<td>
 
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=LuizFagundesT&layout=compact&stats_format=percentages&theme=chartreuse-dark&title_color=00C853&text_color=39d353&icon_color=00C853&border_color=00C853&hide_border=true&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9&disable_animations=true)](https://nice-readme.vercel.app/top-langs)
 
+</td>
+
+</table>
+
+<table>
+<td>
    
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizFagundesT&theme=chartreuse_dark)
+</td>
+
+<td>
+<img src="https://github-streak-stats-ruby.vercel.app/?user=LuizFagundesT&theme=chartreuse-dark&hide_border=true&locale=pt_BR" />
+</tr>
+</table>
+
+
+
+
 </div>
 
 ---
@@ -106,7 +134,7 @@ Today, I focus on building web and mobile tools to automate and improve processe
 
 <div align="center">
 
-### Development
+### Desenvolvimento
 
 <table>
 <tr>
@@ -136,10 +164,10 @@ Today, I focus on building web and mobile tools to automate and improve processe
 
 ---
 
-## 📜 Certificates
+## 📜 Certificados
 
 <details>
-<summary><b>Click to view my certifications</b></summary>
+<summary><b>Clique para ver minhas certificações</b></summary>
 
 <br>
 
@@ -156,8 +184,6 @@ Today, I focus on building web and mobile tools to automate and improve processe
 </a>
 </td>
 
-
-
 </tr>
 </table>
 
@@ -166,7 +192,12 @@ Today, I focus on building web and mobile tools to automate and improve processe
 </details>
 
 ---
+
 <div align="center">
+
+<table>
+<tr>
+<td>
 
 ```text
 ███████╗ █████╗  ██████╗ ██╗   ██╗███╗   ██╗██████╗ ███████╗███████╗
@@ -176,6 +207,17 @@ Today, I focus on building web and mobile tools to automate and improve processe
 ██║     ██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║██████╔╝███████╗███████║
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝╚══════╝
 ```
-</div>
 
+
+
+</td>
+<td align="center">
+
+<!-- 🖼️ Substitua a URL abaixo pelo link do seu GIF ou foto de encerramento -->
+<img src="https://media1.tenor.com/m/JsD5D2E89EoAAAAd/nincomputer-matrix.gif" width="250px" alt="gif de despedida"/>
+
+</td>
+</tr>
+</table>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+</div>
