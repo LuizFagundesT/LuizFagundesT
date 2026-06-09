@@ -54,11 +54,7 @@
 </a>
 </td>
 
-<td>
-<a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR">
-<img src="https://joaopauloaramuni.github.io/image/scholar2.png?raw=true" width="50"/>
-</a>
-</td>
+
 
 </tr>
 </table>
